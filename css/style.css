@@ -20,6 +20,8 @@ body {
   .social-links a {
     display: inline-block; 
     margin: 0 10px; 
+    width: 100px; 
+    height: 100px; 
 }
 
 .social-links img {
