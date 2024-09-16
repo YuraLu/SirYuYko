@@ -17,3 +17,12 @@ body {
     font-size: 28px;
     font-weight: bold;
   }
+  .social-links a {
+    display: inline-block; 
+    margin: 0 10px; 
+}
+
+.social-links img {
+    width: 100px; 
+    height: 100px; 
+}
